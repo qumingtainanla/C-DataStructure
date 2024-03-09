@@ -1,0 +1,4 @@
+﻿  list.c
+C:\Users\依依依依\Desktop\双向链表\list.c(16,12): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
+C:\Users\依依依依\Desktop\双向链表\list.c(10): warning C4716: “InitList”: 必须返回一个值
+  双向链表.vcxproj -> C:\Users\依依依依\Desktop\双向链表\x64\Debug\双向链表.exe

@@ -1,0 +1,6 @@
+﻿  list.c
+D:\Code\C_DataStructure\链表\双向链表\list.c(16,3): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
+  test.c
+  正在生成代码...
+D:\Code\C_DataStructure\链表\双向链表\list.c(10,1): warning C4716: “InitList”: 必须返回一个值
+  双向链表.vcxproj -> D:\Code\C_DataStructure\链表\双向链表\x64\Debug\双向链表.exe
