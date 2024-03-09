@@ -1,2 +1,0 @@
-C:\Users\依依依依\Desktop\队列\x64\Debug\队列.exe
-D:\code\C_language\队列\x64\Debug\队列.exe
