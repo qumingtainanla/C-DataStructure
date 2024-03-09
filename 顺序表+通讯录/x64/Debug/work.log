@@ -1,0 +1,17 @@
+﻿  Contact.c
+C:\Users\依依依依\Desktop\work\Contact.c(25,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  list.c
+C:\Users\依依依依\Desktop\work\list.c(15,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLDataType”
+C:\Users\依依依依\Desktop\work\list.c(25,12): warning C4098: “SLCheckCapacity”:“void”函数返回值
+C:\Users\依依依依\Desktop\work\list.c(84,32): warning C4028: 形参 2 与声明不同
+C:\Users\依依依依\Desktop\work\list.c(88,21): warning C4133: “==”: 从“SLDataType *”到“char [100]”的类型不兼容
+  test.c
+C:\Users\依依依依\Desktop\work\test.c(46,14): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(54,15): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(57,15): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(60,18): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(63,16): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(66,16): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+C:\Users\依依依依\Desktop\work\test.c(76,17): warning C4133: “函数”: 从“PeoInfo *”到“contact *”的类型不兼容
+  正在生成代码...
+  work.vcxproj -> C:\Users\依依依依\Desktop\work\x64\Debug\work.exe
